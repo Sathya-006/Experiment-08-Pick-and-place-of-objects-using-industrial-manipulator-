@@ -1,5 +1,9 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
+## Date: 22/04/2023
+## Name: Sathya.N
+## Register Number: 212221040149
+## Dept: CSE
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
@@ -79,35 +83,41 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+### Program:
 
 
+![1](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/f5905d9d-fce9-432a-bce8-6ce58ff93496)
 
+![2](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/0c154d26-94a6-43b7-973d-9731a5b3399b)
 
+![3](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/8fd2d861-bf3e-458e-95da-9560d6bf6468)
 
-
-
-
-
-
-
-
-
-
-
-
+![4](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/b3459c6f-0bd3-40bd-8193-b3b8cc5b2ecf)
 
 
 ### output video and screen shots of pick and place 
 
+![5](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/2a9bda05-517f-4227-9e14-3c89c7706bb9)
 
+![6](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/b05d644e-ea90-4c52-aecc-cdef8734eeca)
 
+![7](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/c17e6a71-928d-4e23-a9a9-1fa26d7a65fd)
 
+![8](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/3ef1f5bb-3cbe-46b7-beb9-9c65610b70b2)
 
+![9](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/c5567bcb-165c-4ced-80b5-50d9c1ab2b1c)
 
+![10](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/f46e7834-37f6-46f7-845d-99bb4a2c83c0)
+
+![11](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/d9131fb3-f6d9-4a54-aac0-47a1373b072d)
+
+![12](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/121661327/dd79b77e-12f1-4ad0-8b12-f5d1ade899bf)
+
+https://drive.google.com/file/d/1LfLNZSjMv3GXcCaO1WVcT3xeU3UIM5KF/view?usp=drivesdk
 
 ### Results: 
 
+Thus the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is executed successfully.
 
 
 
